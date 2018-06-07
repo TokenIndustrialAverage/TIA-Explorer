@@ -17,7 +17,7 @@ A demo instance connected to the Golem Network Token is available at [gnt.etherc
 * Supports IPC and HTTP backend connections
 * Responsive layout
 
-Missing a feature? Please request it by creating a new [Issue](https://github.com/gobitfly/erc20-exporter/issues).
+Missing a feature? Please request it by creating a new [Issue](https://github.com/TokenIndustrialAverage/TIA-Explorer/issues).
 
 ## Getting started
 
@@ -28,7 +28,7 @@ Supported Ethereum backend nodes: Parity, Geth (untested)
 1. Setup a nodejs & npm environment
 2. Install the latest version of the Parity Ethereum client
 3. Start parity using the following options: `parity --warp`
-4. Clone this repository to your local machine: `git clone https://github.com/gobitfly/erc20-exporter`
+4. Clone this repository to your local machine: `git clone https://github.com/TokenIndustrialAverage/TIA-Explorer`
 5. Install all dependencies: `npm install`
 6. Rename `config.js.example` into `config.js` and adjust the file to your local environment & token
 7. Start the explorer: `npm start`
