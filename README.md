@@ -1,4 +1,4 @@
-# TIA-Exporter
+# TIA-Explorer
 ### Lightweight explorer for ERC20 Based Ethereum tokens
 
 TIA-Exporter is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
