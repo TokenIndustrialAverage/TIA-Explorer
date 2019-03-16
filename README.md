@@ -1,7 +1,7 @@
 # TIA-Explorer
 ### Lightweight explorer for ERC20 Based Ethereum tokens
 
-TIA-Exporter is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
+TIA-Explorer is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
 
 
 A demo instance connected to the Golem Network Token is available at [gnt.etherchain.org](http://gnt.etherchain.org).
